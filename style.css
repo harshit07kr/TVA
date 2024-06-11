@@ -2,7 +2,7 @@ body{
     background-image: url(loki-main.avif);
      background-size: cover;
 }
-.lead{
+.lead,p{
     font-size: x-large;
     font-weight: bolder;
 }
